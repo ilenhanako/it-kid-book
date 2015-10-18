@@ -2,7 +2,7 @@
 
 Making an app is easy, you should learn it
 
-Really papa?!? I don’t believe you and why should I learn it?
+_Really papa?!? I don’t believe you and why should I learn it?_
 
 Yes, it is easy, everyone can make an app. Making an app is not just for geeks. It is for 
 everyone who are willing to learn. You need to learn it because your papa needs a deputy. Not only that, but papa wants you to be a game maker not just a gamer, be a facebook-like creator and not just be a facebooker. But most important of all…... once you master this skill you will be an unstoppable ‘inventor’.
