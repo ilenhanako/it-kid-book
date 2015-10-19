@@ -1,13 +1,13 @@
 # Chapter 1: Making an App is Easy
 
-Making an app is easy, you should learn it
+Making an app is easy, you should learn it Adelaine.
 
 _Really papa?!? I don’t believe you and why should I learn it?_
 
 Yes, it is easy, everyone can make an app. Making an app is not just for geeks. It is for 
 everyone who are willing to learn. You need to learn it because your papa needs a deputy. Not only that, but papa wants you to be a game maker not just a gamer, be a facebook-like creator and not just be a facebooker. But most important of all…... once you master this skill you will be an unstoppable ‘inventor’.
 
-Ok papa. Let’s get started.
+_Ok papa. Let’s get started._
 
 Before we start our lesson, let’s make it clear about an unstoppable inventor.
 
@@ -16,7 +16,7 @@ Once upon a time, my high school biological teacher Mr Gentlemen told the class 
 Jesus said a “wise man would build his house on a rock; the rain came down, the floods came, and the winds blew, and beat on that house; and it did not fall”
 Similarly you will need a strong foundation so that you could grow well as an app builder.
 
-Roger Papa!
+_Roger Papa!_
 
 
 
