@@ -65,10 +65,8 @@ Examples: </html> , </head> , </title> , </body>
 - [x] Next is the heading always remember to type :
 
 ```
-“<h1>”and after typing the title in between type </h1>”.
-
+<h1>and after typing the title in between type </h1>
 </body>
-
 </html>
 
 ```
