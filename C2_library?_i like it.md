@@ -13,19 +13,21 @@ _And what about the library section?_
 Section is also comparable to a folder, but a rather “big” folder. So a “big” folder can contain folders. Just like a section contains multiple racks. 
 
 #PRACTICE 1:
-[x] Open terminal
-- [x]Go to root folder. Root? Just like root of the tree is the starting point. Root folder is the master , biggest folder. 
- Command: **cd/**
-
-- [x]Find what folders inside root
+- [ ] Open terminal
+- [ ] Go to root folder. Root? Just like root of the tree is the starting point. Root folder is the master , biggest folder. 
 ```
- Command: **Is**
+ Command: cd/
+```
+- [ ] Find what folders inside root
+```
+ Command: ls
 ```
 
-- [x]Go to one of the folders i.e. Users
- Command: **cd Users**
-
-- [ ] a task list item
+- [ ]Go to one of the folders i.e. Users
+```
+ Command: cd Users
+```
+- [x] Remember to tick the boxes when you are done.
 
 
 
