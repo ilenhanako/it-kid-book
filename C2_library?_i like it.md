@@ -26,9 +26,7 @@ Section is also comparable to a folder, but a rather “big” folder. So a “b
 ```
  Command: cd Users
 ```
-- [x] Remember to tick the boxes when you are done.
-
-
+- [x] _Remember to tick the boxes when you are done._
 Find out what is inside Users. Where is the file?
                              
 Let’s go to the heart of a library called book, it has many kinds of books. 
