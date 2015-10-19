@@ -1,0 +1,14 @@
+I start to be more familiar with HTML.
+And i am a little hacker now.
+I want to do a lot of things with my first website.
+
+I noticed one magic word inside HTML, that i used a lot to beautify
+my website that is style.
+
+Using style , i could do
+* Change font color
+* Change background color
+
+Papa said there are many many more things i could do with HTML style.
+The best way to learn this is by asking the question to Uncle Google. 
+Let me try it now!

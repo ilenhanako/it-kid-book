@@ -1,0 +1,18 @@
+Changi Terminal is Adelaine's favourite terminal.
+
+What is terminal in her MacBook air? Are there any planes in her MacBook?
+Unfortunately not. But why we call it terminal?
+
+Because same as Changi, in Terminal, an application (aeroplane) take off.
+
+This morning, Adelaine is the pilot of an aeroplane called TextMate.
+She drove it off by typing "mate ."
+
+Before she acts as pilot, Adelaine must work as an aeroplane engineer. She is the lonely ranger!
+
+What is an aeroplane engineer doing?
+She check whether the wheel is working perfectly (so that her flight does not crash).
+
+In her macbook, she need to find the correct folder by using "cd command". She is also now familiar with "pwd", "ls", "ls -l", tab (a shortcut so that she is no longer a slow cat)
+
+

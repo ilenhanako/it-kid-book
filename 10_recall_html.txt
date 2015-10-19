@@ -1,0 +1,11 @@
+Today, I start work with my own MacBook. What a wonderful experience!
+With a great tool comes a great responsibility. Thus, I shall learn harder!
+
+Let's recall HTML.
+
+HTML stands for HyperText Markup Language
+
+How to create?
+* using TextMate
+* start with <html>
+* end with </html>

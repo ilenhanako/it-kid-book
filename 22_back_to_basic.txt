@@ -1,0 +1,46 @@
+Have you ever ride a bus? Yeah, of course, you think nobody did (Mind your words, little girl).
+
+Have you ever heard about "local" bus? No.
+Do you know what is local? Yes. I know local people, local food.
+What does it mean by local?
+
+You never heard about "local" bus, because you're staying in Singapore.
+So, everything here is in one city, and it is always "local".
+
+When you go to Indonesia, there is "local" bus, there is "inter-local" bus.
+The same thing when you go to public phone -- you can make "local" phone call, and "inter-local" phone call.
+
+
+Local means "in your neighbourhood". 
+
+So in computer, sometime master will say "local file" or "remote file". Remote means distant.
+
+Local file means the file is inside your computer (most likely is in your harddisk).
+Remote file means the file is outside of your computer, e.g. if the file is in the internet.
+
+* Experience with remote file -- DONE
+* Experience with local file 
+
+--- HARDDISK
+
+harddisk is just a file storage, just like a book rack for a book.
+there are many different size of book rack
+* let me call the biggest one as "library"
+* second biggest as "library section"
+* third biggest as "library bookshelf"
+--> a library contain a few or a lot of library sections
+--> a library section contains a few or a lot of libary bookshelves
+
+in computer world -- let's call the library as "root" folder. root folder is defined by symbol "/"
+
+Inside the root, there is first level folder (same with library section), e.g. Users, Library, Application folder.
+All files inside harddisk is local file.
+
+
+
+
+
+
+
+
+

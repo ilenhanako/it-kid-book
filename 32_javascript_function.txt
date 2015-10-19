@@ -1,0 +1,49 @@
+function? what is function? are you talking about wedding function?
+
+no .. no.. , it is not about food in the wedding. But function in JavaScript is as delicious as wedding food.
+
+ok, go back to business.
+
+can you tell me your hobby?
+crochet.
+how did you do crochet?
+* step 1: take yarn from my crochet bag
+* step 2: tie a dead knot
+* step 3: do a desired length of single stiches
+* step 4: bla...... bla..........
+* step 5: blu...... blu..........
+
+today in JavaScript we will create a crochet function, let's try it
+
+crochet = function() {
+	console.log("* step 1: take yarn from my crochet bag");
+	console.log("* step 2: tie a dead knot");
+	console.log("* step 3: do a desired length of single stiches");
+	console.log("* step 4: bla...... bla..........");
+	console.log("* step 5: blu...... blu..........");
+	console.log("* step 6: blu...... blu..........");	
+}
+
+ilengotopee = function() {
+	console.log("Step 1:walk to the toilet");
+	console.log("Step 2:close the door");
+	console.log("Step 3:lock the door");
+	console.log("Step 4:pull down your pants");
+	console.log("Step 5:sit on the toilet bowl");
+	console.log("Step 6:PEE");
+	console.log("Step 7:pull up your pants");
+	console.log("Step 8:wash your hand with soap");
+	console.log("Step 9:Unlock the door");
+	console.log("Step 10:open the door");
+	console.log("Step 11:close the door");
+	console.log("Step 12:YOU ARE DONE PEEING!!!!!");
+}
+
+remember yesterday, variable may contains string, integer.
+so today you learn that variable may also contain function.
+
+
+
+
+
+ 

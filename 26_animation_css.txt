@@ -1,0 +1,5 @@
+Have you written CSS file before? Yes.
+
+What did you accomplish by writing CSS? Style.
+
+Today we're not writing CSS our own, but we're going to "copy" for other (open source project)

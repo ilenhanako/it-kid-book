@@ -1,0 +1,12 @@
+What is animation?
+Picture? Wrong. It is moving picture. Just like when you watch cartoon. Hip Hip Hurray!!!
+
+Let's create our own animation!
+
+There are many ways to create animation. And today, we'll try one of the possible ways i.e by using CSS3.
+
+Do you know CSS? No. :(
+Do you know HTML? Yes. :)
+Do you know style within? Yes. :| hmmm , I need a proof
+
+Let's try it.

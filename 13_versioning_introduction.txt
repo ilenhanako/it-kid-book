@@ -1,0 +1,25 @@
+Have you ever watched Narnia movie?
+Yes, I watched 3 of them. Narnia version 1, Narnia version 2, and Narnia version 3.
+
+Have you ever used TextMate? 
+Yes. I used old TextMate and new TextMate.
+The old one is version 1.5, the new one is version 2.0
+
+What is version? Version is normally a number that described how recent something is. E.g Narnia version 1 is the oldest, and Narnia version 3 is the latest version.
+
+IT Kid NEEDS to master about versioning in "computer world", because it is VERY (10 times) important.
+
+Imagine you're writing a book, it may take 1 month to finish. During the month, you make a daily progress. And how would you make sure your progress is not lost in the event of Computer crash or your mother snatch your macbook?
+
+IT Kid answer:
+* everyday, I save my work as book_version_1.txt, book_version_2.txt, book_version_3, etc
+* I need to copy each of the txt file somewhere outside my PC.
+
+Papa:
+* Thank you for making an effort of answering. You're almost there. But there is a much faster and easier way.
+Let's explore this in next lesson.
+
+
+
+
+

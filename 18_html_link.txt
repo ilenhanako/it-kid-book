@@ -1,0 +1,21 @@
+Just like a Padang food, without chilli. That's IT Kid's first web page.
+
+Chilly is one of main ingredient for Padang food.
+What is one of missing ingredient in IT Kid's website?
+
+Hyperlink!
+
+HTML is very common to have hyperlink inside. Just imagine hyperlink as "Citilink" than connecting "CityHall" and "Suntec".
+
+Hyperlink exist in a page to connect to "any other" pages or website.
+
+Let's try it.
+
+She added link to google by putting below code
+	<a href="http://www.google.com">Link To Google</a>
+
+Can we add link to our own other page? Yes, of course.
+
+ITKid created second HTML page, and also create a "hyperlink" from the first page to the second page.
+
+<a href="believe.html;color:#8BFF1C">Other Lyrics</a>

@@ -1,0 +1,30 @@
+Please read again your problem in previous lesson. Papa promised an easy solution.
+
+The solution is using an app called "git". Do you know who created this "git" in the beginning?
+
+"git" is the brainchild of Linus Trovald. Once upon a time, when Bill Gates was the most popular IT kid in the world ~ Linus is told to be more popular.
+
+Let's check about him in Wikipedia. Let me do , let me do!!! (IT Kid shouted)
+
+IT Kid happily read about Linus, one of the geek in Computer world.
+
+She also installed one of his brainchild i.e. git.
+
+So that in "terminal", now she can call git command.
+
+Now back to the problem, how can "git" helqp her?
+
+CONCLUSION:
+Samselin wrote few chapters. After writing each day she committed the work into gid by running below command
+
+git add -A
+git status
+git commit -m 'any commit message'
+
+
+And then papa deleted all the files. And Samselin was able to restore it by
+
+git checkout -- filename
+
+
+

@@ -1,0 +1,52 @@
+I thought I have learnt programming? Like HTML, CSS, GIT, etc.
+
+Well, you have not even learnt a real programming language.
+
+Do you like painting? Yes.
+How did you paint? Yeah I tried various way of painting like using pencil, crayon, water colour, paint colour, etc. 
+
+Just like painting, there are few different ways of doing programming. Each is differentiated by programming "LANGUAGE". 
+
+Just like an artist, who usually capable of more than one way of paintings.
+Similarly, a senior programmer may have learnt few different of programming languages. Example of programming languages: Ruby, Java, JavaScript, C#.
+
+Today, you will learnt my favorite programming language, called JavaScript. Well, it is not a "kid-level" programming. In fact, JavaScript is used heavily by Google in developing Google Doc, or by FaceBook in developing FaceBook website.
+
+The lesson today is a foundation for you to be like Mack Z or "papa".
+
+Enough introduction, let's go to the meat of the lesson.
+
+-- Just like a drawing, you need to have a blank paper or canvas, as the playground. So in JavaScript programming, we will use Google Dev Toolbar (as part of Chrome browser) -- console Tab.
+
+ilen = "good";
+papa = "better";
+ilen + papa = "goodbetter";
+
+ilen = "naughty"
+
+=== VARIABLE ===
+ilen & papa is called as "variable". What is variable?
+variable, root word is "vary" -- meaning few different things
+
+so why ilen & papa called variable? because we can set ilen as "good", but we also can re-set it again as "naughty". so ilen value is changing.
+
+how about "good" and "better"? they are called as variable's value.
+
+so that's TOO EASY. why papa need to do hours of working for such an easy things!!!
+
+continue ...
+
+=== VARIABLE TYPE ===
+
+there are few different types of variables. in samples above, ilen , papa are String variable. Meaning the variable contains String's value. What's String? Don't get me confused! Easy answer: ask Uncle Google!
+
+String is sequence of characters e.g. "good" is sequence of "g", "o", "o", "d"
+
+What other type of variables? Integer is just like a number!
+
+=== VARIABLE ASSIGNMENT ===
+To be continued .......................
+
+
+
+

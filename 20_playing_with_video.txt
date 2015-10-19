@@ -1,0 +1,16 @@
+What is video?
+
+Video is "moving" pictures.
+
+So it is basically many (not moving) pictures, that you see one after another -- very fast -- so that your eyes and subsequently your brain got deceived (impressed as if it is moving picture).
+
+What's your favourite website to see Video? www.youtube.com
+Is there any other websites displaying Video? www.stomp.com , www.vimeo.com
+
+Who created the video in the website? Public (not website owner).
+
+Back to Samselin's mastercraft. She is very sad because her website is "static" -- no animation, no moving picture, no sound.. 
+
+So today, we will make it impressive by adding video.
+
+Ok, we will not create video ourselves, we will just display video from youtube.

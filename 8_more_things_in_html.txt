@@ -1,0 +1,17 @@
+IT Kid already learnt HTML on lesson 4.
+
+What do you remember?
+* It stands for HyperText Markup Language
+* I created HTML using TextMate
+    - create a file with type html
+    - it starts with <html> tag
+    - it ends with </html> tag
+    - whatever you are going to add must be within <body> and </body>
+    - I also learnt few other tags, such as: title, h1, h2, img, a
+    - I also learnt about tag attributes
+    - What is tag attributes? If tag is ILEN, tag attributes are color skin, hobby, hairstyle -- to be precise here is
+    <ILEN colorskin="blue" hairstyle="botak"></ILEN>
+
+* I open HTML using Internet Browser -- Google Chrome
+
+

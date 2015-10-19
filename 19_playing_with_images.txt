@@ -1,0 +1,22 @@
+Let's explore new thing, not HTML but images.
+
+Do you know what is images? Picture?
+
+Images is basically a file. What are the file extension of images? PNG, JPEG, GIF, many others.
+
+How do you create image files? 
+* be ready with your ugly face
+* open Photo Booth application
+* choose the effect
+* shoot!
+
+There you go. You have an image file.
+
+How do you edit image? Edit is an action to modify "existing" image. You could edit image by using image editor. There are many apps for image editor, like Preview.
+
+Another popular application for Image Editor is (Adobe) PhotoShop, but it is paid apps.
+There is a free version of image editor, which is comparable to PhotoShop i.e. Gimp.
+
+Please install Gimp now, and explore it.
+
+

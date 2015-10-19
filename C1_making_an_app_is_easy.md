@@ -1,4 +1,4 @@
-# Making an App is Easy
+# Chapter 1: Making an App is Easy
 
 Making an app is easy, you should learn it
 

@@ -1,0 +1,4 @@
+There are few ways to open folder
+1. terminal
+2. finder open .
+3. textmate mate .

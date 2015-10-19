@@ -1,0 +1,23 @@
+By now, IT Kid knows very well what internet browser is.
+
+E.g. Safari, Google Chrome, Firefox, Internet Explorer.
+Browser is an app to go to "internet" sites.
+
+Let's go to prehistoric time.
+
+Before these browser exists, people are browsing internet using "terminal".
+The famous application in the past called Lynx.
+
+There is another application that still being used often by developers to connect to internet using terminal i.e. wget and curl.
+
+Papa said, please remember about wget and curl command. It would be finally help you one or another during programming.
+
+Let's try it on, and have fun!
+
+So what have you learnt:
+1. IT Kid open a website www.freshflower.sg using Chrome. The she inspect "Page Source". What did she observe? HTML page.
+
+2. IT Kid is using terminal and type "curl www.freshflower.sg" , and Enter. Then what did she see? The same HTML page as in step 1.
+
+
+

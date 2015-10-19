@@ -1,0 +1,12 @@
+Hacker is not necessarily evil. There are two types of hackers , that is white hat hacker and black hat hacker.
+So, it is still too early to learn about hacker. But, let us learn something that a hacker may experience with at the beginning.
+
+What are we going to learn? Copying other people website, and make it as yours.
+
+Let us visit http://ilen.heroku.com and copy it.
+
+Conclusion:
+ITKid is a new hacker. But the master found out that she is lacking of some basic knowledge.
+Let us go to basic again in next lesson.
+
+ 

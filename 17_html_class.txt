@@ -1,0 +1,30 @@
+Samselin enjoys decorating her HTML pages. She keeps adding style and content.
+Now the page grows to 94 lines. 
+
+In computer world, there is a terminology called "dirty code". It is referring to code that not structured well and hard to maintain.
+
+Samselin's first work is dirty code, but it is acceptable.
+
+Oya btw who is writing dirty code is often referred as monkey programmer.
+
+Don't be monkey programmer Samselin!
+
+Let's simplify your page by learning about "class".
+
+1. class is an HTML attributes, similar to style
+2. in your HTML , you have something like
+
+style="color:#FF191D;margin-bottom:6px;"
+
+this is to display red font.
+
+It would be easier to understand, if I could replace this with
+class="ilen_red"?
+
+Conclusion:
+Samselin now understand the importance of class attribute in HTML. Especially how helpful it is to simplify the page. She double the her page but the number of lines is just increase to 112 lines (from earlier 93 lines). Great job, baby!
+But the most importance is the code is easily to read , and all the "style" things are grouped in one section inside 	<style type="text/css">
+
+
+
+
