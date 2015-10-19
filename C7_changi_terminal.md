@@ -1,7 +1,11 @@
 #Chapter 7: Changi Terminal
+Today we will explore about a special application in your computer , called **Terminal**
+
 _What is terminal in my MacBook? Are there any planes in my MacBook?_
 
-Unfortunately not. But why we call it terminal?
+Unfortunately not.
+
+_Why do we call it terminal?_
 
 Because same as Changi, in Terminal, an application (aeroplane) takes off.
 

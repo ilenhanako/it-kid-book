@@ -9,7 +9,7 @@ _Yes_
 
 So this time, you will create another heroku project with 1 simple HTML, and push it not only to heroku, but also to github.
 
-#Tasks
+##Tasks
 Here is what you need to do
 
 - [x] Create a project folder in your computer

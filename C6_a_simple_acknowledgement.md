@@ -12,6 +12,8 @@ Today, we’re going to learn how you could publish Simple HTML page into Intern
 
 We’re going to use Heroku for this.
 
+##Practice:
+
 Step 1. Create Heroku account in www.heroku.com (it is free, and as simple as creating an email account in Gmail or facebook account.)
 
 Step 2. Read “Getting Started” tutorial in Heroku 

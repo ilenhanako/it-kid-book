@@ -12,7 +12,7 @@ Yes, you got it. Folder is like a rack in a library.
 _And what about the library section?_
 Section is also comparable to a folder, but a rather “big” folder. So a “big” folder can contain folders. Just like a section contains multiple racks. 
 
-#PRACTICE 1:
+##PRACTICE:
 - [ ] Open terminal
 - [ ] Go to root folder. Root? Just like root of the tree is the starting point. Root folder is the master , biggest folder. 
 ```

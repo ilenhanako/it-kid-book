@@ -23,7 +23,7 @@ Remember
 - start with <html> and with </html>
 
 
-#PRACTICE:
+##PRACTICE:
 
 - [x] Open textmate or any other text editor and start with:
 
