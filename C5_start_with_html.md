@@ -25,28 +25,39 @@ Remember
 
 #PRACTICE:
 
-- [x] Open textmate or any other text editor.
+- [x] Open textmate or any other text editor and start with:
+```
  <html>
- 
-- [x] Always remember to start with “<html>” 
+```
+- [x] Always remember to start with:
+```
+<html>
 <head>
-
+``
 - [x] Just remember HTML as a human.It must always start from the top which is the head.
+```
 <title>Page title.</title>
-
+```
 - [x] A website must always have a title.
+```
 </head>
-
-- [x] Remember if whatever has a bracket it must always close.E.g </html>,</head>,</title>.
-<body>
-
+```
+- [x] Remember if whatever has a bracket it must always close.E.g:
+```
+Examples: </html> , </head> , </title> , </body>
+```
 - [x] After the head comes the body.
+```
 <h1>This is a Heading</h1>
+```
+- [x] Next is the heading always remember to type :
+```
+“<h1>”and after typing the title in between type </h1>”.
 
-- [x] Next is the heading always remember to type “<h1>”and after typing the title in between type </h1>”.
 </body>
-</html>
 
+</html>
+```
 - [x] Remember to close (refer to step no.4)
 
 
