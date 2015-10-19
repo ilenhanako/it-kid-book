@@ -19,6 +19,7 @@ Section is also comparable to a folder, but a rather “big” folder. So a “b
  Command: cd/
 ```
 - [ ] Find what folders inside root
+
 ```
  Command: ls
 ```
