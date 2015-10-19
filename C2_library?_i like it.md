@@ -19,17 +19,14 @@ Section is also comparable to a folder, but a rather “big” folder. So a “b
  Command: cd/
 ```
 - [ ] Find what folders inside root
-
 ```
  Command: ls
 ```
-
-- [ ] Go to one of the folders i.e. Users
+- [ ] Go to one of the folders, example: users
 ```
  Command: cd Users
 ```
 - [x] Remember to tick the boxes when you are done.
-
 
 
 Find out what is inside Users. Where is the file?
