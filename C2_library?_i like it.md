@@ -24,7 +24,7 @@ Section is also comparable to a folder, but a rather “big” folder. So a “b
  Command: ls
 ```
 
-- [ ]Go to one of the folders i.e. Users
+- [ ] Go to one of the folders i.e. Users
 ```
  Command: cd Users
 ```
