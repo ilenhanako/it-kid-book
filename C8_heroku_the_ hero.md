@@ -1,0 +1,23 @@
+#Chapter 8: Heroku the hero
+
+wow! papa can't wait to teach his beloved naughty dr about heroku.
+        
+1. let's create a heroku account.
+
+2. install Heroku Toolbelt
+
+After I install heroku toolbelt,I could run heroku command in terminal.
+
+3.Try with various heroku command. 
+* heroku login
+* heroku create
+
+4. Then we created a website project. I have my first website now called
+http://ilen.heroku.com
+
+* I create my website locally ~ using TextMate, and tested using Google Chrome
+* Then I push the update to heroku by running following command
+=> git add -A
+=> git status (is optional -- only for me to see the changes)
+=> git commit -m 'any message'
+=> git push heroku (this is the real command to push out the changes to heroku)
