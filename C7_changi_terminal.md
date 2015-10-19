@@ -5,15 +5,17 @@ Unfortunately not. But why we call it terminal?
 
 Because same as Changi, in Terminal, an application (aeroplane) takes off.
 
-This morning, Adelaine is the pilot of an aeroplane called TextMate.
-She drove it off by typing "mate ."
+For example: You are the pilot of an aeroplane called TextMate.
+You drove it off by typing "mate ."
 
-Before she acts as pilot, Adelaine must work as an aeroplane engineer. She is the lonely ranger!
+Before you act as a pilot, you must work as an aeroplane engineer.Like a lonely ranger!
 
-What is an aeroplane engineer doing?
-She check whether the wheel is working perfectly (so that her flight does not crash).
+_What does an aeroplane engineer do?_
+An aeroplane engineer checks whether the wheel is working perfectly (so that his or her flight does not crash).
 
-In her macbook, she need to find the correct folder by using "cd command". She is also now familiar with "pwd", "ls", "ls -l", tab (a shortcut so that she is no longer a slow cat)
+In your macbook, you need to find the correct folder by using "cd command". You are also familiar now with "pwd", "ls", "ls -l" and "tab" (a shortcut so that you are no longer a slow cat)
+
+_Hey! I am not a slow cat!_
 
 ## Tasks
 - [ ] Open terminal
