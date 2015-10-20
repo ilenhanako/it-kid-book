@@ -12,15 +12,16 @@ _This is so exciting! Let's get started!_
 
 After you have install heroku toolbelt, you could run heroku command in terminal.
 
-2.Try with various heroku command. 
+2. Try with various heroku command. 
 ```
 
 heroku login
 heroku create (type your prefered website name after you have type in heroku create)
 
 ```
-4. Then create a website project. You will have your first website now called
-http://ilen.heroku.com (or whatever name you want)
+3. Then create a website project. 
+
+You will have your first website now called http://ilen.heroku.com (or whatever name you want)
 
 * You have to create your website locally ~ using TextMate and test it using Google Chrome
 * Then push the update to heroku by running following command
