@@ -1,6 +1,6 @@
 #Chapter 8: Heroku the hero
 
-Heroku is similar to Github.however it is more advanced.In chapter 7, you have created your own Heroku account.
+Heroku is similar to Github, however it is more advanced. In chapter 7, you have created your own Heroku account.
 In this chapter you will learn how to use Heroku.
 
 _This is so exciting! Let's get started!_
@@ -8,18 +8,18 @@ _This is so exciting! Let's get started!_
  
 ##Practice:      
 
-1. Install Heroku Toolbelt
+- [ ] Install Heroku Toolbelt
 
 After you have install heroku toolbelt, you could run heroku command in terminal.
 
-2. Try with various heroku command. 
+- [ ] Try with various heroku command. 
 ```
 
 heroku login
 heroku create (type your prefered website name after you have type in heroku create)
 
 ```
-3. Then create a website project. 
+- [ ] Then create a website project. 
 
 You will have your first website now called http://ilen.heroku.com (or whatever name you want)
 
