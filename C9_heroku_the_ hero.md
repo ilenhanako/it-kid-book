@@ -1,4 +1,4 @@
-#Chapter 8: Heroku the hero
+#Chapter 9: Heroku the hero
 
 Heroku is similar to Github, however it is more advanced. In chapter 7, you have created your own Heroku account.
 In this chapter you will learn how to use Heroku.

@@ -1,4 +1,4 @@
-#Chapter 7: A Simple Acknowledgement
+#Chapter 8: A Simple Acknowledgement
 
 A simple acknowledgment will encourage other. That’s the reason teachers or  parents give compliment to their students or children. _“Great job!” , “Good stuff”, “Excellent!”._
 It will give you the spirit to do better.

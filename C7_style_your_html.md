@@ -1,4 +1,4 @@
-#Chapter 9: Style your HTML
+#Chapter 7: Style your HTML
 
 In the computer world, there is a terminology called "dirty code". It is referring to a code that is not structured well and is hard to maintain.
 

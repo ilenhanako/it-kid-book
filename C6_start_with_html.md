@@ -1,4 +1,4 @@
-#Chapter 5 : Start with HTML!
+#Chapter 6: Start with HTML!
 
 _What is HTML! Is it some kind of weird psycho language?_
  
