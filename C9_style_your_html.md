@@ -24,5 +24,8 @@ Adelaine,now do you understand the importance of class attribute in HTML? Especi
 
 _Yes papa i understand that class does not mean a class in a school now._
 
-Great job! However, the most importance is the code is easily to read , and all the "style" things are grouped in one section inside 	<style type="text/css">
+Great job! However, the most importance is the code is easily to read , and all the "style" things are grouped in one section inside:	
+```
+<style type="text/css">
         
+```
