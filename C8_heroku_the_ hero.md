@@ -1,23 +1,34 @@
 #Chapter 8: Heroku the hero
 
-wow! papa can't wait to teach his beloved naughty dr about heroku.
-        
-1. let's create a heroku account.
+Heroku is similar to Github.however it is more advanced.In chapter 7, you have created your own Heroku account.
+In this chapter you will learn how to use Heroku.
 
-2. install Heroku Toolbelt
+_This is so exciting! Let's get started!_
+ 
+ 
+##Practice:      
 
-After I install heroku toolbelt,I could run heroku command in terminal.
+1. Install Heroku Toolbelt
 
-3.Try with various heroku command. 
-* heroku login
-* heroku create
+After you have install heroku toolbelt, you could run heroku command in terminal.
 
-4. Then we created a website project. I have my first website now called
-http://ilen.heroku.com
+2.Try with various heroku command. 
+```
 
-* I create my website locally ~ using TextMate, and tested using Google Chrome
-* Then I push the update to heroku by running following command
-=> git add -A
-=> git status (is optional -- only for me to see the changes)
-=> git commit -m 'any message'
-=> git push heroku (this is the real command to push out the changes to heroku)
+heroku login
+heroku create (type your prefered website name after you have type in heroku create)
+
+```
+4. Then create a website project. You will have your first website now called
+http://ilen.heroku.com (or whatever name you want)
+
+* You have to create your website locally ~ using TextMate and test it using Google Chrome
+* Then push the update to heroku by running following command
+ 
+``` 
+ git add -A
+ git status (is optional -- only for me to see the changes)
+ git commit -m 'any message'
+ git push heroku (this is the real command to push out the changes to heroku)
+
+```
