@@ -2,4 +2,5 @@
 
 The world of coding!!!!!
 
-[Read more words!](docs/more_words.md)
+## Table of Contents
+[Chapter 1. Making An App Is Easy](chapters/C1_making_an_app_is_easy.md)
