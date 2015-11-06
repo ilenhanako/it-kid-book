@@ -1,4 +1,4 @@
-# What is File?
+# What Infant Should Know? File ...
 
 Library has lots of books. A book in a library is similar to a file within your computer.
 
