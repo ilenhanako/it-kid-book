@@ -1,6 +1,7 @@
 #Create a File
 
-1. you need apps to create a file
+1. You will need apps to create a file.For example:
+
     - txt   : text editor -- many. Papa's favourite text editor is "TextMate". In Windows, papa is using "Notepad"
     - docx  : microsoft word. I don't have ms.word in MacBook
     - pptx  : microsoft power point. I don't have ms.word in MacBook

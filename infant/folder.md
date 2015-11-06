@@ -1,6 +1,8 @@
-#Chapter 2 : Library? I like it!
+#A Baby is Born
 
-When you go to library, you would see different sections, children section, fiction section, or IT section. Within the section, for example children section you would see different rack for e.g. baby rack, pre-teen rack, teenager rack. And within a rack you would see the actual books.
+Modern babies like books too.
+
+When you go to a library, you would see different sections. Children section, fiction section, or IT section. Within the section, for example children section you would see different rack for e.g. baby rack, pre-teen rack, teenager rack. And within a rack you would see the actual books.
 
 What’s the purpose of having section and rack? Imagine if a librarian just dump all of the books in a big room. How would you find your favorite book like Geronimo Stilton among millions of  other books that the library has?
 

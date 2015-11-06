@@ -1,25 +1,24 @@
-file -- imagine a book inside library, file is like one book inside your computer
+# What is File?
 
+Library has lots of books. A book in a library is similar to a file within your computer.
 
-book has title -- file has a name e.g. ilenku.docx
-book has category e.g comic, fairytales -- file has extension / type e.g. docx, pptx, txt, jpeg
-book has a rack (so that Adelaine can easily search her favourite reading) -- file has a folder
+Book has a title, e.g. "Alice in Wonderland". File too. You could have file with name "itkid.txt"
 
-I can destroy a book (if getting crazy) -- file can also be deleted.
-
-I can give book to other -- I also can send file to others
-* when I send file to others, I still have the copy
-* when I give book to others, I lost it hua hua hua
-
-Adelaine's favourite book is non-fiction type.
+## Types of File
+There are few different book's genre like comic, fairytales. Same with file too. You have different types like "image" file, "video" file, "text" file or many others. Adelaine's favourite book is non-fiction type.
 Adelaine's favourite file type is JPEG, why? Because JPEG file, are files that keeping photos!
 
+## Delete a File
+Naughty baby can destroy a book. File can also be deleted.
 
-ln -s /Applications/TextMate.app/Contents/Resources/mate /usr/local/bin/mate
+## Transfer a File
+Generous kid can donate book to others. I also can send file to others.
+But there is a bit of difference here.
+When I send file to others, I still have the copy
+When I give book to others, I lost it (cry cry cry)
 
-
-
-
+## Folder
+Books in library is placed in rack. Same with files too. Files are placed in folder. Some people call it , directory.
 
 
 
