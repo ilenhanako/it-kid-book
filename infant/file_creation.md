@@ -1,4 +1,4 @@
-* create file
+#Create a File
 
 1. you need apps to create a file
     - txt   : text editor -- many. Papa's favourite text editor is "TextMate". In Windows, papa is using "Notepad"

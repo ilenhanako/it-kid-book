@@ -10,8 +10,8 @@ This is a working document that will be kept updated, a learning journey for bot
 ## Table of Contents
 
 ### Infant
-[Chapter 1 File Overview](infant/file_overview.md)
-[Chapter 2 File Creation](infant/file_creation.md)
+* [Chapter 1 File Overview](infant/file_overview.md)
+* [Chapter 2 File Creation](infant/file_creation.md)
 
 
 ###Kid
