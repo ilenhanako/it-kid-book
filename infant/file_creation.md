@@ -18,20 +18,18 @@ But remember, we have thousands of file in your computer. You may get confused t
 
 This is the role of extension.
 
-Create a file
-1. You will need apps to create a file
+## Tasks
+- [ ] __Create a file__. You will need apps to create a file
     
-    - txt   : text editor -- many. Papa's favourite text editor is "TextMate". In Windows, papa is using "Notepad"
+* txt   : text editor -- many. Papa's favourite text editor is "TextMate". In Windows, papa is using "Notepad"
     
-    - docx  : microsoft word. I don't have ms.word in MacBook
+* docx  : microsoft word. I don't have ms.word in MacBook
    
-    - pptx  : microsoft power point. I don't have ms.word in MacBook
+* pptx  : microsoft power point. I don't have ms.word in MacBook
     
-    - jpeg  : image editor. One free but powerful image editor is GIMP. Another paid image editor, and very popular is Adobe Photoshop.
+* jpeg  : image editor. One free but powerful image editor is GIMP. Another paid image editor, and very popular is Adobe Photoshop.
 
-Browsing a folder
-
-There are a few ways to open folder
+- [ ] __Browsing a Folder__. There are a few ways to open folder
 1. terminal
 2. finder open .
 3. textmate mate .
