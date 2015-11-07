@@ -2,7 +2,7 @@
 
 _What is HTML! Is it some kind of weird psycho language?_
  
-No.HTML stands for Hyper Text Markup Link.
+No.HTML stands for Hyper Text Markup Language.
 HTML is a special type of file.HTML is just like a type of book.There are many different type of books.E.g. Fables,Biography,Cartoons etc.
 HTML is a computer language which is used to create your own website. 
 

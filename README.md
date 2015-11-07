@@ -14,6 +14,7 @@ This is a working document that will be kept updated, a learning journey for bot
 * [Chapter 2 File Overview](infant/file_overview.md) What Infants Should Know?
 * [Chapter 3 File Creation](infant/file_creation.md) Bibedy Bobody Boo!
 * [Chapter 4 Changi Terminal](infant/terminal.md) Best Terminal in The World
+* [Chapter 5 Start With HTML](infant/start_with_html.md) Hyper Text Markup Language
 
 ###Kid
 * [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is easy
