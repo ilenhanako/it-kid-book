@@ -1,6 +1,10 @@
-hello again! it's been a long long break. IT kid is enjoying her holiday.
-now is the time for fun again. even funner, because she has her OWN MACBOOK AIR!!!! Yiha!
-so, Papa wants to transfer all the material to her own MacBook
+# Send Parcels to Far Far Away Country
+
+Hello again! it's been a long long break. IT kid is enjoying her holiday.
+Now is the time for fun again. Even funner, because she has her own MacBook.
+So, Papa wants to transfer all the material to her own MacBook.
+
+What's your solution?
 
 1. using email, she learnt on tutorial no.6
 2. using Google drive

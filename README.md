@@ -10,8 +10,9 @@ This is a working document that will be kept updated, a learning journey for bot
 ## Table of Contents
 
 ### Infant
-* [Chapter 1 File Overview](infant/file_overview.md) What Infants Should Know? File ...
-* [Chapter 2 File Creation](infant/file_creation.md) Bibedy Bobody Boo!
+* [Chapter 1 Basic and Tools](infant/terminal.md) Bobby The Builder
+* [Chapter 2 File Overview](infant/file_overview.md) What Infants Should Know? File...
+* [Chapter 3 File Creation](infant/file_creation.md) Bibedy Bobody Boo!
 
 
 ###Kid
