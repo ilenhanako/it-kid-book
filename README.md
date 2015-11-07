@@ -15,9 +15,7 @@ This is a working document that will be kept updated, a learning journey for bot
 * [Chapter 3 File Creation](infant/file_creation.md) Bibedy Bobody Boo!
 * [Chapter 4 Changi Terminal](infant/terminal.md) Best Terminal in The World
 
-
-
 ###Kid
-[Chapter 3 Making An App Is Easy](chapters/C1_making_an_app_is_easy.md)
-
+* [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is easy
+* [Chapter X The Popular Kid] (kid/search_engine_optimization.md) 
 
