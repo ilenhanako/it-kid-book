@@ -1,4 +1,4 @@
-#Chapter 5: Changi Terminal
+#Changi Terminal
 Today we will explore about a special application in your computer , called **Terminal**
 
 _What is terminal in my MacBook? Are there any planes in my MacBook?_

@@ -11,7 +11,7 @@ This is a working document that will be kept updated, a learning journey for bot
 
 ### Infant
 * [Chapter 1 Basic and Tools](infant/basic_and_tools.md) Bobby The Builder
-* [Chapter 2 File Overview](infant/file_overview.md) What Infants Should Know? File...
+* [Chapter 2 File Overview](infant/file_overview.md) What Infants Should Know?
 * [Chapter 3 File Creation](infant/file_creation.md) Bibedy Bobody Boo!
 * [Chapter 4 Changi Terminal](infant/terminal.md) Best Terminal in The World
 
