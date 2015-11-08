@@ -15,8 +15,10 @@ This is a working document that will be kept updated, a learning journey for bot
 * [Chapter 3 File Creation](infant/file_creation.md) Bibedy Bobody Boo!
 * [Chapter 4 Changi Terminal](infant/terminal.md) Best Terminal in The World
 * [Chapter 5 Start With HTML](infant/start_with_html.md) Hyper Text Markup Language
-
+* [Chapter 6 Dynamic HTML](teenager/dynamic_html.md)Dynamic Dynamo HTML
 ###Kid
 * [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is easy
-* [Chapter X The Popular Kid] (kid/search_engine_optimization.md) 
+* [Chapter X The Popular Kid](kid/search_engine_optimization.md) 
 
+###Teenager
+* [Chapter 6 Dynamic HTML](teenager/dynamic_html.md)Dynamic Dynamo HTML
