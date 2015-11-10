@@ -21,7 +21,7 @@ In your macbook, you need to find the correct folder by using "cd command". You 
 
 _Hey! I am not a slow cat!_
 
-## Tasks
+## Practice
 - [ ] Open terminal
 - [ ] Go to the correct folder (aeroplane engineer), use cd command
 - [ ] Once you're in the right folder, double check it, use pwd command

@@ -5,7 +5,7 @@ But never mind.
 
 Today we'll transform the ugly duckling of your computer i.e. Terminal to be a _"beautiful swan"_.
 
-## Task
+## Practice
 
 - [ ] In your terminal, move to home directory. 
 ```

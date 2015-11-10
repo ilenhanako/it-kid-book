@@ -10,7 +10,7 @@ _I don't know. But we could ask Uncle Google_
 
 Before you ask, you need to know the _keyword_ i.e. analytic. Let me answer on behalf of Uncle. The answer is to use _Google Analytic_
 
-## Tasks
+## Practice
 - [ ] Go to google analytic website. Not sure the link? Find it!
 - [ ] Login with your google account
 - [ ] Read the guideline (you would find it after login). Basically you would need to copy a __text__
