@@ -17,7 +17,7 @@ This is a working document that will be kept updated, a learning journey for bot
 * [Chapter 5 Start With HTML](infant/start_with_html.md) Hyper Text Markup Language
 
 ###Kid
-* [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is easy
+* [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is Easy
 * [Chapter X The Popular Kid](kid/search_engine_optimization.md) Populer Website, Too
 
 ###Teenager
