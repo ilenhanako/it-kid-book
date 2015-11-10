@@ -24,4 +24,4 @@ This is a working document that will be kept updated, a learning journey for bot
 ###Teenager
 * [Chapter X Dynamic HTML](teenager/dynamic_html.md) Dynamic Dynamo HTML
 * [Chapter X Ruby](teenager/ruby.md) Ruby, a New Language?
-* [Chapter X Potato Chip](kid/potato_chip.md) It is Easy
+* [Chapter X Potato Chip](kid/potato_chip.md) Factory Code
