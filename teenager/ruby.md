@@ -3,8 +3,8 @@
 What language do you speak?
 _English_
 
-What __computer language__ do you speak?
-_Probably HTML but I don't speak HTML_
+What __computer language__ do you use?
+_HTML_
 
 Today, we're going to learn a new computer language. It's called _Ruby_ language.
 _Why do I need to learn new language, instead of using HTML_

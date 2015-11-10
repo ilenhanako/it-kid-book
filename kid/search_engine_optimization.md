@@ -14,7 +14,7 @@ The best thing is if a search engine website like Google will talk a lot about y
 
 _Ok, how do we start to ask Google to recognize my website?
 
-## Task
+## Practice
 - [ ] Search uncle google, _how to add site to Google_
 - [ ] Do as instructed by Uncle Google
 - [ ] Do the same thing as above for Bing & Yahoo! (Google is not the only search engine)

@@ -21,5 +21,5 @@ This is a working document that will be kept updated, a learning journey for bot
 * [Chapter X The Popular Kid](kid/search_engine_optimization.md) 
 
 ###Teenager
-* [Chapter X Dynamic HTML](teenager/dynamic_html.md)Dynamic Dynamo HTML
-* [Chapter X Ruby](teenager/ruby.md)Ruby gem
+* [Chapter X Dynamic HTML](teenager/dynamic_html.md) Dynamic Dynamo HTML
+* [Chapter X Ruby](teenager/ruby.md) Ruby, a New Language?
