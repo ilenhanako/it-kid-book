@@ -18,8 +18,10 @@ This is a working document that will be kept updated, a learning journey for bot
 
 ###Kid
 * [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is Easy
+
 * [Chapter X The Popular Kid](kid/search_engine_optimization.md) Populer Website, Too
 
 ###Teenager
 * [Chapter X Dynamic HTML](teenager/dynamic_html.md) Dynamic Dynamo HTML
 * [Chapter X Ruby](teenager/ruby.md) Ruby, a New Language?
+* [Chapter X Potato Chip](kid/potato_chip.md) It is Easy
