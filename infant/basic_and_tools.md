@@ -15,7 +15,7 @@ Similarly, in making an app, you also need to have the right tools. There are ma
 
 2. __Terminal__.  Terminal is actually an app. It comes out of the box when you buy a computer.
 
-3. __Text Editor__. Text editor is an app used to edit your text file. There are many kinds of text editor. The good one should automatically color your text. Color will make your life more colorful, right? I would recommend you to use TextMate or Sublime
+3. __Text Editor__. Text editor is an app used to edit your text file. There are many kinds of text editor. The good one should automatically color your text. Color will make your life more colorful, right? I would recommend you to use _TextMate_ or _Sublime_
 
 4. __Image Editor__. Image editor is similar to text editor, but it is use to edit image files, like photos or your cartoon drawings. 
 
