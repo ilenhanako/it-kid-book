@@ -1,7 +1,7 @@
 #Everyone Can Code
 
 Professional dancer, :dancer: Carlos :dancer:, once said everyone can dance. 
-With the same spirit, everyone can code. Even Kids!
+With the same spirit, everyone can code. Even Kids :two_men_holding_hands:!
 
 We'll use parables here and there, to help us understand foreign concept. We're going to learn latest technology that used by passionate developers, such as github, heroku, javascript, CSS, or even fly a drone. 
 
