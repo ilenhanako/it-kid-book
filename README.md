@@ -16,11 +16,11 @@ This is a working document that will be kept updated, a learning journey for bot
 * [Chapter 4 Changi Terminal](infant/terminal.md) Best Terminal in The World
 * [Chapter 5 Start With HTML](infant/start_with_html.md) Hyper Text Markup Language
 
-###Kid
+### :girl: Kid
 * [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is Easy
 * [Chapter X The Popular Kid](kid/search_engine_optimization.md) Populer Website, Too
 
-###Teenager
+### :neckbeard: Teenager
 * [Chapter X Dynamic HTML](teenager/dynamic_html.md) Dynamic Dynamo HTML
 * [Chapter X Ruby](teenager/ruby.md) Ruby, a New Language?
 * [Chapter X Potato Chip](teenager/potato_chip.md) Factory Code
