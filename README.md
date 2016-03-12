@@ -1,9 +1,9 @@
 #Everyone Can Code
 
-Professional dancer, :dancer: Carlos :dancer:, once said everyone can dance. 
+Professional dancer, :dancer: Carlos :dancer:, once said _everyone can dance_. 
 With the same spirit, everyone can code. Even Kids :two_men_holding_hands:!
 
-We'll use parables here and there, to help us understand foreign concept. We're going to learn latest technology that used by passionate developers, such as github, heroku, javascript, CSS, or even fly a drone. 
+We'll use `parables` here and there, to help us understand foreign concept. We're going to learn _latest technology_ that used by passionate developers, such as `github`, `heroku`, `javascript`, `CSS`, or even how to fly a `drone`. 
 
 This is a working document that will be kept updated, a learning journey for both Ruth and papa.
 
