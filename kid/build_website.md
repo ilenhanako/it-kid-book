@@ -2,9 +2,9 @@ To built a building, you need materials. To create a website, you need `commands
 Steps and commands to create your spectacular website:
 
 
-Step 1: Create a folder
+Step 1: Create a __folder__
 
-Step 2: Create a file inside the folder and name it `index.html`
+Step 2: Create a __file__ inside the folder and name it `index.html`
 
 Step 3: Add some html lines to the file
 
