@@ -18,7 +18,9 @@ This is a working document that will be kept updated, a learning journey for bot
 
 ### :girl: Kid
 * [Chapter X Be An Amazing App Maker](kid/getting_started_as_app_maker.md) It is Easy
+* [Chapter X Building Time] (kid/build_website.md) Build a Website 
 * [Chapter X The Popular Kid](kid/search_engine_optimization.md) Populer Website, Too
+
 
 ### :neckbeard: Teenager
 * [Chapter X Dynamic HTML](teenager/dynamic_html.md) Dynamic Dynamo HTML
