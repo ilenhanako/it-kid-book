@@ -31,4 +31,4 @@ Step 5: Type the following command in order to initialize your local `git` repos
  
  Step 7. Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`
  
- Step 8. Keep improving and dreaming!
+ Step 8. Keep improving and dreaming!:star2::+1::sparkles:
