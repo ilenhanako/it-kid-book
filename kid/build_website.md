@@ -8,11 +8,11 @@ Steps and commands to create your spectacular website:
 - [x] Add some html lines :straight_ruler: to the file
 
 - [x] Create a dummy `index.php` and type the following text in the dummy file :page_with_curl: . The `index.php` :arrow_upper_left: is used to include the `index.html` that you're working at.
-```
+`
 <?php
 include('index.html');
 ?>
-```
+`
 
 - [x] Type the following command :memo: in order to initialize your local `git` repository, and add files into your local
 
