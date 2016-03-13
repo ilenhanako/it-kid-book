@@ -15,13 +15,14 @@ include('index.html');
 ```
 
 - [x] Type the following command :memo: in order to initialize your local `git` repository, and add files into your local
+
  ```
  git init . 
  git add -A
  git commit -m 'Commit note e.g. don't get sleepy when papa teaches me'
  ```
  
- :white_check_mark: Type the following command to create your desired URL e.g. `myfirstwebsite.herokuapp.com`
+ - [x] Type the following command to create your desired URL e.g. `myfirstwebsite.herokuapp.com`
  ```
  heroku create myfirstwebsite
  git push heroku master
