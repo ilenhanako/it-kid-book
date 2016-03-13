@@ -1,4 +1,4 @@
-To built a building, you need materials :bank:. To create a website, you need `commands` :computer:
+:white_check_mark:To built a building, you need materials :bank:. To create a website, you need `commands` :computer:
 Steps and commands to create your spectacular website:
 
 
@@ -31,4 +31,4 @@ The `index.php` :arrow_upper_left: is used to include the `index.html` that you'
  
  :heavy_check_mark:Step 7. Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
  
- :heavy_check_mark:Step 8. Keep improving and dreaming!:star2::+1::sparkles:
+ :heavy_check_mark:Step 8. Keep improving and dreaming!:star2::+1::sparkles::mortar_board:
