@@ -1,7 +1,8 @@
- To built a building, you need materials. To create a website, you need commands.
- Steps and commands to create your spectacular website:
+To built a building, you need materials. To create a website, you need `commands`.
+Steps and commands to create your spectacular website:
 
-Step 1: Create a folder
+```
+__Step 1__: Create a folder
 
 Step 2: Create a file inside the folder and name it (index.html)
 
