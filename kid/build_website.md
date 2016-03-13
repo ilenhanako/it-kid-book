@@ -21,12 +21,12 @@ The `index.php` :arrow_upper_left: is used to include the `index.html` that you'
  git commit -m 'Commit note e.g. don't get sleepy when papa teaches me'
  ```
  
- - [x] Type the following command to create your desired URL e.g. `myfirstwebsite.herokuapp.com`
+ :white_check_mark: Type the following command to create your desired URL e.g. `myfirstwebsite.herokuapp.com`
  ```
  heroku create myfirstwebsite
  git push heroku master
  ```
  
- - [x] Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
+ :white_check_mark: Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
  
- - [x] Keep improving and dreaming!:star2::+1::sparkles::mortar_board:
+ :white_check_mark: Keep improving and dreaming!:star2::+1::sparkles::mortar_board:
