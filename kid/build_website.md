@@ -1,13 +1,13 @@
-To built a building, you need materials :bank:. To create a website, you need `commands` :computer:
+To built a building :bank:, you need materials. To create a website, you need `commands`
 Steps and commands to create your spectacular website:
 
 - [x] Create a __folder__ :file_folder:
 
-Step 2: Create a __file__ :page_with_curl: inside the folder and name it `index.html`
+- [x] Create a __file__ :page_with_curl: inside the folder and name it `index.html`
 
-Step 3: Add some html lines :straight_ruler: to the file
+- [x] Add some html lines :straight_ruler: to the file
 
-Step 4: Create a dummy `index.php` and type the following :arrow_down: in the dummy file :page_with_curl:
+- [x] Create a dummy `index.php` and type the following :arrow_down: in the dummy file :page_with_curl:
 ```
 <?php
 include('index.html');
@@ -15,19 +15,19 @@ include('index.html');
 ```
 The `index.php` :arrow_upper_left: is used to include the `index.html` that you're working at.
 
-Step 5: Type the following command :memo: in order to initialize your local `git` repository, and add files into your local
+- [x] Type the following command :memo: in order to initialize your local `git` repository, and add files into your local
  ```
  git init . 
  git add -A
  git commit -m 'Commit note e.g. don't get sleepy when papa teaches me'
  ```
  
- Step 6: Type the following command to create your desired URL e.g. `myfirstwebsite.herokuapp.com`
+ - [x] Type the following command to create your desired URL e.g. `myfirstwebsite.herokuapp.com`
  ```
  heroku create myfirstwebsite
  git push heroku master
  ```
  
- Step 7. Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
+ - [x] Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
  
- Step 8. Keep improving and dreaming!:star2::+1::sparkles::mortar_board:
+ - [x] Keep improving and dreaming!:star2::+1::sparkles::mortar_board:
