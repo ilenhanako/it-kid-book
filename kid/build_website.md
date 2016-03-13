@@ -14,7 +14,6 @@ include('index.html');
 ?>
 ```
 The `index.php` :arrow_upper_left: is used to include the `index.html` that you're working at.
-
 - [x] Type the following command :memo: in order to initialize your local `git` repository, and add files into your local
  ```
  git init . 
