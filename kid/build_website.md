@@ -1,14 +1,14 @@
-To built a building, you need materials. To create a website, you need `commands` :flushed:
+To built a building, you need materials :bank:. To create a website, you need `commands` :computer:
 Steps and commands to create your spectacular website:
 
 
-Step 1: Create a __folder__
+Step 1: Create a __folder__ :file_folder:
 
-Step 2: Create a __file__ inside the folder and name it `index.html`
+Step 2: Create a __file__ :page_with_curl: inside the folder and name it `index.html`
 
-Step 3: Add some html lines to the file
+Step 3: Add some html lines :straight_ruler: to the file
 
-Step 4: Create a dummy `index.php` and type the following  in the dummy file
+Step 4: Create a dummy `index.php` and type the following  in the dummy file :page_with_curl:
 ```
 <?php
 include('index.html');
@@ -29,6 +29,6 @@ Step 5: Type the following command in order to initialize your local `git` repos
  git push heroku master
  ```
  
- Step 7. Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`
+ Step 7. Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
  
  Step 8. Keep improving and dreaming!:star2::+1::sparkles:
