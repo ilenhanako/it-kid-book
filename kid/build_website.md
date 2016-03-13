@@ -1,4 +1,4 @@
-To built a building, you need materials. To create a website, you need `commands`.
+To built a building, you need materials. To create a website, you need `commands` :flushed:
 Steps and commands to create your spectacular website:
 
 
