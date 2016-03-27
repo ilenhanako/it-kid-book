@@ -27,6 +27,6 @@ include('index.html');
  git push heroku master
  ```
  
- :white_check_mark: Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
+- [x] Enjoy your new website and open it using browser at URL `myfirstwebsite.herokuapp.com`:bowtie:
  
- :white_check_mark: Keep improving and dreaming!:star2::+1::sparkles::mortar_board:
+- [x] Keep improving and dreaming!:star2::+1::sparkles::mortar_board:
