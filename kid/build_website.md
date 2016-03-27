@@ -1,7 +1,7 @@
 To built a building :bank:, you need materials. To create a website, you need `commands`
 Steps and commands to create your spectacular website:
 
-- [x] Create a __folder__ :file_folder:
+- [x] Create a __folder__ :file_folder:(Command in terminal: mkdir "your website name')
 
 - [x] Create a __file__ :page_with_curl: inside the folder and name it `index.html`
 
