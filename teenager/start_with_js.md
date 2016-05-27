@@ -12,6 +12,7 @@ I want it more functional. When you click a button, it should shout or turn upsi
 This is where I need a JavaScript. Yay!
 
 ## How to add JavaScript?
+In HTML, the opening tag for HTML is '<div>' aand its closing tag is '</div>'
 
 ## Simple JavaScript to start with?
 
