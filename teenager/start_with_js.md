@@ -11,13 +11,29 @@ But it is so boring. It is not moving, no animation, no business!
 I want it more functional. When you click a button, it should shout or turn upside down.
 This is where I need a JavaScript. Yay!
 
-## How to add JavaScript?
-In HTML, the opening tag for HTML is '<div>' aand its closing tag is '</div>'
+
 
 ## Simple JavaScript to start with?
+An example of a simple Javascript command.
+
+`<script>
+alert('adelaine')
+</script>`
+
+_alert ?_ What is that? An alert is a pop up. _adelaine_ is a example name or quote that you want to show in your popup.
+Try making your own pop up now!
+
+## How to add JavaScript?
+In HTML, the opening tag for HTML is '<div>' aand its closing tag is '</div>'
+_RECALL: What is a tag? _
+_A tag is used in the _
+
+JavaScript commands are placed within `<script>` and `</script>`
+The above example(alert pop up) has an opening and closing tag. By seeing the tag's name, we can tell that the command used is a Javascript command. Thus, always remember to put an opening and closing tag when
+
 
 ## How to test?
-
+-
 ## JavaScript function?
 
 ## How to bind a button click to JavaScript function?
