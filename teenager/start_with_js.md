@@ -11,12 +11,12 @@ But it is so boring. It is not moving, no animation, no business!
 I want it more functional. When you click a button, it should shout or turn upside down.
 This is where I need a JavaScript. Yay!
 
-## How to add JavaScript
+## How to add JavaScript?
 
-## Simple JavaScript to start with
+## Simple JavaScript to start with?
 
-## How to test
+## How to test?
 
-## JavaScript function
+## JavaScript function?
 
-## How to bind a button click to JavaScript function
+## How to bind a button click to JavaScript function?
