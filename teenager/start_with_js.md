@@ -59,11 +59,11 @@ When you press a button and after that you would want the page colour to change,
  Type the following commands in your HTML page:
  
  ```html
- <a href="javascript:void(0)" class="btn btn-raised btn-primary" onclick="changeColorToRed()">type anything in here</a> 
+ <a href="javascript:void(0)" class="btn" onclick="changeColorToRed()">A button label</a> 
  
  ```
  
- 'Type anything in here' refers to the the text that you would like your button to represent. 
+ _A button label_ refers to the text that you would like your button to display. 
 
 ## jQuery
 JavaScript and jQuery are brothers, similar to English and Singlish.
@@ -83,8 +83,8 @@ In jQuery, we could achieve similar thing by
 ``` javascript
 var email = $("#email_textbox");
 ```
-One of the advantages are: 
-The commands are shorter and jQuery commands can be used across different browsers while some JavaScript commands can be used only in 1 browser and has a different command in another browser.
+
+One advantages of using jQuery is the commands are typically shorter. Another benefit, jQuery commands can be used across different browsers while some JavaScript commands can be used only in 1 browser and has a different command in another browser.
 
 
 
