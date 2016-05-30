@@ -16,9 +16,9 @@ This is where I need a JavaScript. Yay!:sparkles:
 ## Simple JavaScript to start with?
 An example of a simple Javascript command.
 
-`<script>
+```javascript
 alert('adelaine')
-</script>`
+```
 
 _alert ?_ What is that? An alert is a pop up. _adelaine_ is a example name or quote that you want to show in your popup.
 Try making your own pop up now!
