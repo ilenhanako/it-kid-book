@@ -58,7 +58,10 @@ His efficiency is a learning from JavaScript function. Instead of typing all tho
 When you press a button and after that you would want the page colour to change, please...  
  Type the following commands in your HTML page:
  
- ` <a href="javascript:void(0)" class="btn btn-raised btn-primary" onclick="changeColorToRed()">type anything in here</a> `
+ ```html
+ <a href="javascript:void(0)" class="btn btn-raised btn-primary" onclick="changeColorToRed()">type anything in here</a> 
+ 
+ ```
  
  'Type anything in here' refers to the the text that you would like your button to represent. 
 
