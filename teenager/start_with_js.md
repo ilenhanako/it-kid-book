@@ -35,5 +35,14 @@ The above example(alert pop up) must be enclosed within `script tag`.
 - [ ] Update directly the HTML code
 
 ## JavaScript function
+When papa ask you to help for chores, he will command
+1. sweep the floor
+2. wash the cloth
+3. fold your blanket
+4. fold the clothes
+5. bla bla bla (the list is too long)
+
+But papa is so efficient, instead of saying out all those commands, he just said 'do chores`, and kid is expected to do all these long list.
+His efficiency is a learning from JavaScript function. Instead of typing all those command one by one, everytime it is needed ~ he wrote a JavaScript function and name it as `do_chores`. Anytime he want it to happen, he will `execute` by calling `do_chores()` 
 
 ## How to bind a button click to JavaScript function?
