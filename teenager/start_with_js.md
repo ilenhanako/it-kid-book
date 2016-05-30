@@ -13,27 +13,27 @@ This is where I need a JavaScript. Yay!:sparkles:
 
 
 
-## Simple JavaScript to start with?
+## Simple JavaScript Command
 An example of a simple Javascript command.
 
 ```javascript
-alert('adelaine')
+alert('how are you?')
 ```
 
-_alert ?_ What is that? An alert is a pop up. _adelaine_ is a example name or quote that you want to show in your popup.
+_alert ?_ What is that? An alert is a pop up. _how are you?_ is a example name or quote that you want to show in your popup.
 Try making your own pop up now!
 
 ## How to add JavaScript?
-In HTML, the opening tag for HTML is '<div>' aand its closing tag is '</div>'
+In HTML, the opening tag for HTML is '<html>' aand its closing tag is '</html>'
 _RECALL: What is a tag? _
-_A tag is used in the _
 
-JavaScript commands are placed within `<script>` and `</script>`
-The above example(alert pop up) has an opening and closing tag. By seeing the tag's name, we can tell that the command used is a Javascript command. Thus, always remember to put an opening and closing tag when
-
+JavaScript commands are placed within `<script>` and `</script>`. In short, it is within script tag.
+The above example(alert pop up) must be enclosed within `script tag`. 
 
 ## How to test?
--
-## JavaScript function?
+- [ ] Use Console inside Google Chrome Developer toolbar
+- [ ] Update directly the HTML code
+
+## JavaScript function
 
 ## How to bind a button click to JavaScript function?
