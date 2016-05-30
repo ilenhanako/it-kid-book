@@ -46,10 +46,19 @@ When papa ask you to help for chores, he will command
 But papa is so efficient, instead of saying out all those commands, he just said `do chores`, and kid is expected to do all these long list.
 His efficiency is a learning from JavaScript function. Instead of typing all those command one by one, everytime it is needed ~ he wrote a JavaScript function and name it as `do_chores`. Anytime he want it to happen, he will `execute` by calling `do_chores()` 
 
-### Sample JavaScript function 
+### Sample of a JavaScript function 
+ ` var changeColorToRed = function() {
+                        var xyz = $("#registrationForm")
+                        xyz.css("background-color","red");
+                } `
 
 ### How to bind a button click to JavaScript function execution
-
+When you press a button and after that you would want the page colour to change, please...  
+ Type the following commands in your HTML page:
+ 
+ ` <a href="javascript:void(0)" class="btn btn-raised btn-primary" onclick="changeColorToRed()">type anything in here</a> `
+ 
+ 'Type anything in here' refers to the the text that you would like your button to represent. 
 
 ## jQuery
 JavaScript and jQuery are brothers, similar to English and Singlish.
@@ -69,5 +78,8 @@ In jQuery, we could achieve similar thing by
 ``` javascript
 var email = $("#email_textbox");
 ```
-Another advantage ....
+One of the advantages are: 
+The commands are shorter and jQuery commands can be used across different browsers while some JavaScript commands can be used only in 1 browser and has a different command in another browser.
+
+
 
