@@ -36,6 +36,7 @@ The above example(alert pop up) must be enclosed within `script tag`.
 
 ## JavaScript function
 When papa ask you to help for chores, he will command
+
 1. sweep the floor
 2. wash the cloth
 3. fold your blanket
