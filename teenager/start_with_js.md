@@ -4,11 +4,11 @@ Let's start with a _reflection_.
 We began with HTML page.
 We made the page prettier, by putting `style`
 More and more styles, mushrooming styles.
-But it is not hygienic. So we plucked out all the style, and put in CSS file.
-We replaced the style with simple `class`
-So we get, a nice and clean page.
+But it is not hygienic. So we plucked out all the styles, and put them in CSS file.
+We replaced the `style` with simple `class`
+So we get, a nice and clean page :love
 But it is so boring. It is not moving, no animation, no business!
-I want it more functional. When you click a button, it should shout or turn upside down.
+I want it more functional. When you click a button, it should shout or turn the page upside down.
 This is where I need a JavaScript. Yay!
 
 
