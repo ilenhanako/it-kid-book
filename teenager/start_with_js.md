@@ -86,5 +86,10 @@ var email = $("#email_textbox");
 
 One advantages of using jQuery is the commands are typically shorter. Another benefit, jQuery commands can be used across different browsers while some JavaScript commands can be used only in 1 browser and has a different command in another browser.
 
+## Practice
+Create a new button, and label it as "Practice".
+Create a JavaScript that will change the background color of the page body to gray.
+When "Practice" button is clicked, it will execute the above function.
+
 
 
