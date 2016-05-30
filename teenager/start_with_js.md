@@ -47,11 +47,11 @@ But papa is so efficient, instead of saying out all those commands, he just said
 His efficiency is a learning from JavaScript function. Instead of typing all those command one by one, everytime it is needed ~ he wrote a JavaScript function and name it as `do_chores`. Anytime he want it to happen, he will `execute` by calling `do_chores()` 
 
 ### Sample of a JavaScript function 
-``` 
+``` javascript
  var changeColorToRed = function() {
-                        var xyz = $("#registrationForm")
-                        xyz.css("background-color","red");
-                } 
+  var xyz = $("#registrationForm")
+  xyz.css("background-color","red");
+ } 
 ```
 
 ### How to bind a button click to JavaScript function execution
