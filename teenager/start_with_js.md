@@ -46,6 +46,11 @@ When papa ask you to help for chores, he will command
 But papa is so efficient, instead of saying out all those commands, he just said `do chores`, and kid is expected to do all these long list.
 His efficiency is a learning from JavaScript function. Instead of typing all those command one by one, everytime it is needed ~ he wrote a JavaScript function and name it as `do_chores`. Anytime he want it to happen, he will `execute` by calling `do_chores()` 
 
+### Sample JavaScript function 
+
+### How to bind a button click to JavaScript function execution
+
+
 ## jQuery
 JavaScript and jQuery are brothers, similar to English and Singlish.
 Is Singlish a form of English?
@@ -64,5 +69,5 @@ In jQuery, we could achieve similar thing by
 ``` javascript
 var email = $("#email_textbox");
 ```
+Another advantage ....
 
-## How to bind a button click to JavaScript function?
