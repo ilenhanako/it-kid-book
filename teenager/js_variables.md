@@ -23,4 +23,5 @@ String varaibles are normally alphabets
 ## Numeric
 __Numeric__, eg. 123, 120.50 etc.
 
+
 ## JSON
