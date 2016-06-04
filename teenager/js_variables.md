@@ -6,7 +6,7 @@ If you need to store water, you need a glass. But when you store cookies, you ne
 In programming, when you need to store `alphanumeric` / `a-zA-Z1..9` --> String
 
 ```
-var adelaine = ilen;
+var adelaine = "ilen";
 ```
 In programming, just like in algebra, we use variables (like adelaine) to hold values.
 :bulb:JavaScript variables are containers for storing data values.
@@ -15,8 +15,8 @@ Variables are declared with the __var__ keyword
 ## String
 The String object lets you work with a series of characters
 __Strings__ of text e.g. "This text string" etc.
-```
-var adelaine = ilen;
+```javascript
+var adelaine = "ilen";
 ```
 The String() function converts the value of an object (like ilen) to a string.
 String varaibles are normally alphabets
@@ -26,7 +26,7 @@ __Numeric__, eg. 123, 120.50 etc.
 
 For instance, you might create a variable named money and assign the value 2000.50 to it.
 
-```
+``` javascript
 var money = 2000.50
 ```
 The difference between numeric variables and string variables is that the numeric uses numerical values(numbers) and string uses alphabets
