@@ -1,7 +1,7 @@
 # Pencil Box, my Storage
 
 Storage is crucial in our daily life.
-Why? Because when you're not storing it, then it will disappear in no time.
+Why? Because when you're not storing your valuable, then it will disappear in no time.
 
 In programming, storage is very important.
 When you put your images to Google Photos, google help to store your photos in their machine, so that you could see them again in future.
