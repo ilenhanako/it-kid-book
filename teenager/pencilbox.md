@@ -11,3 +11,6 @@ So now, you have your registration page. Somebody go to your website, enter the 
 How would you store the information, so that Papa could retrieve those again?
 
 _I don't know_
+
+In programming, the most common answer is stored them into the `database`.
+There are many database product, i.e. `Oracle`, `Microsoft SQL`
