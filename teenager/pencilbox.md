@@ -13,4 +13,14 @@ How would you store the information, so that Papa could retrieve those again?
 _I don't know_
 
 In programming, the most common answer is stored them into the `database`.
-There are many database product, i.e. `Oracle`, `Microsoft SQL`
+There are many database product, i.e. `Oracle`, `Microsoft SQL`. These are paid product.
+Startup companies normally opt for _free products_ i.e. open source database
+NoSQL databases --> MongoDB , RethinkDB, "online" -- FireBase
+`FireBase` -- bought by FaceBook
+
+
+
+
+
+
+
