@@ -78,14 +78,14 @@ How to _indicate_? By using function argument.
 So instead of calling `do_chores()` , you would call the function like `do_chores("morning")` or `do_chores("afternoon")`
 In above sample `morning` and `afternoon` are input (feedback) arguments.
 
-Sample of Function Input Argument using a picture
+:memo:Sample of Function Input Argument using a picture
 ```
 var NameOfFunction= function(filename) {
                         var image = $("#myimage");
                         image.attr("src", filename);
                 }
 ```
-NOTE: `myimage` is the id for the image
+NOTE:bookmark:: `myimage` is the id for the image
 ## jQuery
 JavaScript and jQuery are brothers, similar to English and Singlish.
 Is Singlish a form of English?
@@ -107,10 +107,10 @@ var email = $("#email_textbox");
 
 One advantages of using jQuery is the commands are typically shorter. Another benefit, jQuery commands can be used across different browsers while some JavaScript commands can be used only in 1 browser and has a different command in another browser.
 
-## Practice
-Create a new button, and label it as "Practice".
-Create a JavaScript that will change the background color of the page body to gray.
-When "Practice" button is clicked, it will execute the above function.
+## Practice:+1:
+:white_check_mark:Create a new button, and label it as "Practice".
+:white_check_mark:Create a JavaScript that will change the background color of the page body to gray.
+:memo:When "Practice" button is clicked, it will execute the above function.
 
 
 
