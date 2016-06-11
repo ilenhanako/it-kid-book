@@ -1,4 +1,4 @@
-# JavaScript Getting Started
+/play tada# JavaScript Getting Started
 
 Let's start with a _reflection_.
 We began with HTML page.
