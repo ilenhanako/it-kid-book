@@ -65,6 +65,19 @@ When you press a button and after that you would want the page colour to change,
  
  _A button label_ refers to the text that you would like your button to display. 
 
+### Function Input Argument
+In above `function` example, we created a function called `do_chores`.
+But papa has higher expectation now. For morning time, kid need to do additional task which is _fold the blanket_; but not for afternoon.
+What does Papa need to do?
+_Indicate ?!?_
+
+First option, create two function i.e. do_chores_morning and do_chores_afternoon
+Second option, use the same function and _indicate_ if it is morning work.
+
+How to _indicate_? By using function argument.
+So instead of calling `do_chores()` , you would call the function like `do_chores("morning")` or `do_chores("afternoon")`
+In above sample `morning` and `afternoon` are input (feedback) arguments.
+
 ## jQuery
 JavaScript and jQuery are brothers, similar to English and Singlish.
 Is Singlish a form of English?
