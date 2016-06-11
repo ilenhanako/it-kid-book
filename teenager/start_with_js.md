@@ -78,6 +78,14 @@ How to _indicate_? By using function argument.
 So instead of calling `do_chores()` , you would call the function like `do_chores("morning")` or `do_chores("afternoon")`
 In above sample `morning` and `afternoon` are input (feedback) arguments.
 
+Sample of Function Input Argument using a picture
+```
+var NameOfFunction= function(filename) {
+                        var image = $("#myimage");
+                        image.attr("src", filename);
+                }
+```
+NOTE: `myimage` is the id for the image
 ## jQuery
 JavaScript and jQuery are brothers, similar to English and Singlish.
 Is Singlish a form of English?
