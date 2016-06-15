@@ -16,8 +16,10 @@ We can't learn all those languages in short time. Let's pick state of the art so
 Let's start with practice!
 
 ##Practice
-:white_small_square:Please create a heroku account if u have not done so
+:white_small_square:Please create a heroku account if u have not done so:registered:
 
 :white_small_square:Next, please install the Heroku Toolbelt.
 
-:white_small_square:Go to this link for more information:  https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
+:white_small_square:Go to this link for more information and follow the steps given in the link:  https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
+
+And Your are done!:100::+1:
