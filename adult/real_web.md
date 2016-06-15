@@ -14,3 +14,8 @@ Isn't that cool?
 _How do we start?_
 We can't learn all those languages in short time. Let's pick state of the art solution i.e. Node.JS.
 Let's start with practice!
+
+##Practice
+:white_small_square:Please create a heroku account if u have not done so
+:white_small_square:Next, please install the Heroku Toolbelt.
+:white_small_square:Go to this link for more information:  https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
