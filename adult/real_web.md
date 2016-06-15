@@ -22,6 +22,6 @@ Let's start with practice!:white_check_mark:
 
 :white_small_square:Go to this link for more information and follow the steps given in the link:  https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
 
-And Your are done!:100::+1:
+And You are done!:100::+1:
 
 :thought_balloon:Info: Heroku is part of the Salesforce company:clap::+1:
