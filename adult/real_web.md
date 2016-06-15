@@ -17,5 +17,7 @@ Let's start with practice!
 
 ##Practice
 :white_small_square:Please create a heroku account if u have not done so
+
 :white_small_square:Next, please install the Heroku Toolbelt.
+
 :white_small_square:Go to this link for more information:  https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
