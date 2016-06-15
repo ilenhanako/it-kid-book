@@ -4,7 +4,7 @@ Up till today, we created the HTMLs in our local and push them to "web server".
 Instead of preparing the HTMLs in advance, we will ask "help" from "our assistant" to prepare the HTMLs.
 
 _Who is our assistant?_:bust_in_silhouette:
-He / she is not human, instead _our assistant_ could be Ruby script, Java, Phython, Node.JS ... 
+He / she is not human, instead _our assistant_ could be Ruby:heart: script, Java, Phython, Node.JS ... 
 Our assistant will be responsible to create the HTML we wants.
 
 _Why do we need those assistants?_
