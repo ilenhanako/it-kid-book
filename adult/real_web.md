@@ -11,7 +11,7 @@ _Why do we need those assistants?_
 Because we don't have time to create 1000 HTMLs for 1000 pages of song lyrics. We just need to create one or few Ruby / Phython / Node.JS script to create 5000 pages of _song lyrics_.
 Isn't that cool?
 
-_How do we start?_:white_check_mark:
+_How do we start?_:interrobang:
 We can't learn all those languages in short time. Let's pick state of the art:performing_arts: solution i.e. Node.JS.
 Let's start with practice!:white_check_mark:
 
