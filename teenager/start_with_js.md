@@ -4,7 +4,7 @@ Let's start with a _reflection_.
 We began with HTML page.
 We made the page prettier, by putting `style`
 More and more styles, mushrooming styles.
-But it is not hygienic. So we plucked out all the styles, and put them in CSS file.
+But it is unhygienic. So we plucked out all the styles, and put them in CSS file.
 We replaced the `style` with simple `class`
 So we get, a nice and clean page :heart:
 But it is so boring. It is not moving, no animation, no business!
