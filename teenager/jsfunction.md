@@ -17,16 +17,16 @@ var calculate = function(number1, number2){
 }
 ```
 ### Task 2
-//Write a function, and name it exerciseperweek
-//If no. of exercise per week is less than 3, it should print
-//YOU'RE POOR
+Write a function, and name it `exerciseperweek`
+If no. of exercise per week is less than 3, it should print
+`YOU'RE POOR`
 
-//e.g. exerciseperweek(2)
-//YOU'RE POOR
+e.g. `exerciseperweek(2)
+YOU'RE POOR`
 
-//If no. of exercise per week is 3 and above, but less than 7, it should print VERY GOOD
+If no. of exercise per week is 3 and above, but less than 7, it should print `VERY GOOD`
 
-//If no. of exercise per week is more than 7, it should print YOU HAVE NOTHING ELSE TO DO, HUH?
+If no. of exercise per week is more than 7, it should print `YOU HAVE NOTHING ELSE TO DO, HUH?`
 
 ```javascript
 var x = 14;
