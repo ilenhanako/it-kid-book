@@ -36,32 +36,19 @@ if (x >= 10 && x < 15) {
 }
 
 //SOLUTION
+```javascript
+var exerciseperweek = function(abc){
+        //var exerciseperweek = 3;
+        if (abc < 3) {
+                console.log("YOU'RE POOR");
+        }
 
-var exerciseperweek = 3;
-if (exerciseperweek < 3) {
-	console.log("YOU'RE POOR");
-}
+        if (abc >= 3 && abc < 7) {
+                console.log("VERY GOOD");
+        }
 
-if (exerciseperweek >= 3 && exerciseperweek < 7) {
-	console.log("VERY GOOD");
+        if (abc > 7) {
+                console.log("YOU HAVE NOTHING ELSE TO DO, HUH?");
+        }
 }
-
-if (exerciseperweek > 7) {
-	console.log("YOU HAVE NOTHING ELSE TO DO, HUH?");
-}
-
-
-var exerciseperweek = function(){
-var exerciseperweek = 3;
-if (exerciseperweek < 3) {
-	console.log("YOU'RE POOR");
-}
-
-if (exerciseperweek >= 3 && exerciseperweek < 7) {
-	console.log("VERY GOOD");
-}
-
-if (exerciseperweek > 7) {
-	console.log("YOU HAVE NOTHING ELSE TO DO, HUH?");
-}
-}
+```
