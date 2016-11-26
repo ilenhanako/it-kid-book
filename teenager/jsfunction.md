@@ -35,4 +35,33 @@ if (x >= 10 && x < 15) {
 	console.log("I feel that I am teenager, but i still have baby soul");
 }
 
+//SOLUTION
 
+var exerciseperweek = 3;
+if (exerciseperweek < 3) {
+	console.log("YOU'RE POOR");
+}
+
+if (exerciseperweek >= 3 && exerciseperweek < 7) {
+	console.log("VERY GOOD");
+}
+
+if (exerciseperweek > 7) {
+	console.log("YOU HAVE NOTHING ELSE TO DO, HUH?");
+}
+
+
+var exerciseperweek = function(){
+var exerciseperweek = 3;
+if (exerciseperweek < 3) {
+	console.log("YOU'RE POOR");
+}
+
+if (exerciseperweek >= 3 && exerciseperweek < 7) {
+	console.log("VERY GOOD");
+}
+
+if (exerciseperweek > 7) {
+	console.log("YOU HAVE NOTHING ELSE TO DO, HUH?");
+}
+}
