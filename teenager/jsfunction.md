@@ -5,9 +5,10 @@ var dochores = function(person1, person2) {
 };
 ```
 
-//Write a function, and name it calculate
-//When you run it, e.g. calculate (10, 12) it should return a message in the console "THE RESULT is 22"
-//When you run it, e.g. calculate (5, 6) it should return a meesage in the console "THE RESULT is 11"
+### Instruction
+Write a function, and name it calculate
+When you run it, e.g. `calculate (10, 12)` it should return a message in the console `THE RESULT is 22`
+When you run it, e.g. calculate (5, 6) it should return a meesage in the console "THE RESULT is 11"
 ```javascript
 var calculate = function(number1, number2){
 	var result;
