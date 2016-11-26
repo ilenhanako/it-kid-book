@@ -5,7 +5,7 @@ var dochores = function(person1, person2) {
 };
 ```
 
-### Task
+### Task 1
 Write a function, and name it calculate
 When you run it, e.g. `calculate (10, 12)` it should return a message in the console `THE RESULT is 22`
 When you run it, e.g. `calculate (5, 6)` it should return a meesage in the console `THE RESULT is 11`
@@ -16,6 +16,7 @@ var calculate = function(number1, number2){
     console.log("the result is " + result);
 }
 ```
+### Task 2
 //Write a function, and name it exerciseperweek
 //If no. of exercise per week is less than 3, it should print
 //YOU'RE POOR
