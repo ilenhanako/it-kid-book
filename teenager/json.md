@@ -28,7 +28,7 @@ Write a function, name it `whoareyou`, as such
 ## Solution
 
 ```javascript
-var whoareyou
-
-
+var whoareyou = function (a){
+        console.log("Hello there, my name is " + a.first_name + " " + a.last_name);
+}
 ```
