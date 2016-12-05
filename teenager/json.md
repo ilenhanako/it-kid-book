@@ -42,5 +42,12 @@ Write a function, name it `whoareyou`, as such
 
 ## Solution
 ```javascript
-
+var whoareyou = function (a){
+        if (a.age <= 15){
+                console.log("Hello there, my name is " + a.first_name + " " + a.last_name + " " + "I am kid.");
+        }
+        if (a.age >= 16){
+                console.log("Hello there, my name is " + a.first_name + " " + a.last_name + " " + "I am adult.");
+        }
+}
 ```
