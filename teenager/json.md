@@ -39,3 +39,8 @@ Write a function, name it `whoareyou`, as such
 * when you run the function `whoareyou({first_name: "Iwan", last_name: "Soehendro", age: 5})`, it should print out `Hello there. My name is Iwan the Soehendro. I am kid`
 * when you run the function `whoareyou({first_name: "Masako", last_name: "Y", age: 20})`, it should print out `Hello there. My name is Masako the Y. I am adult`
 * kid is 15 years or below, otherwise adult.
+
+## Solution
+```javascript
+
+```
