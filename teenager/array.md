@@ -52,3 +52,12 @@ Result:
 		this is ilen
 */
 
+## Solution
+
+var todo = function(number1, number2){
+    var result;
+    result = number1 + number2;
+    console.log("this is " + result);
+}
+
+for (i=0; i < todo.length ;
