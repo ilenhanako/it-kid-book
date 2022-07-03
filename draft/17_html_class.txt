@@ -19,7 +19,7 @@ style="color:#FF191D;margin-bottom:6px;"
 this is to display red font.
 
 It would be easier to understand, if I could replace this with
-class="ilen_red"?
+class="ilen_red"???
 
 Conclusion:
 Samselin now understand the importance of class attribute in HTML. Especially how helpful it is to simplify the page. She double the her page but the number of lines is just increase to 112 lines (from earlier 93 lines). Great job, baby!
